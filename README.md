@@ -5,7 +5,6 @@ A web application designed to provide streamlined data management and insightful
 # **Image**
 <a href='https://dynamic-dashboard-nu.vercel.app/' target='_blank'><img src='dashboard_img.png' /></a>
 
-
 ## **Live Demo:**
 
 <a href='https:https://dynamic-dashboard-nu.vercel.app/' target='_blank'>View Live</a>
